@@ -10,6 +10,11 @@
 | 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/61254329.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/99367276.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/36867899.jpg) |
 | 描述 | 通过 storyboard 搭建列表页 | 值等于计算方式 | 处理计算后的值 |
 
+## Advantage 框架的优势
+* 1.文件少，代码简洁，封装程度高
+* 2.不依赖任何其他第三方库
+* 3.通过良好的Demo展示，学习曲线好
+* 4.具备较高自定义性
 
 ## Requirements 要求
 * iOS 7+
