@@ -4,11 +4,12 @@
 ) ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
 自从余额宝理财思想在人们心中根深蒂固，各种理财产品也如雨后春笋一般出现，既然涉及到金额，float的精度一定不能满足金融类计算的需要，但是OC的NSDecimal使用起来有过于复杂，所以在前人的基础上进行了封装，并通过一个Demo展示出来。
+(内附 Swift 版引用示例，带 UI 的哦😯~)
 
-| 名称 |1.列表页 |2.展示页 |3.展示页 |
-| ------------- | ------------- | ------------- | ------------- |
-| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/61254329.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/99367276.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/36867899.jpg) |
-| 描述 | 通过 storyboard 搭建列表页 | 值等于计算方式 | 处理计算后的值 |
+| 名称 |1.列表页 |2.展示页 |3.展示页 |4.UI页 |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/61254329.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/99367276.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/36867899.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-11-21/58376795.jpg) |
+| 描述 | 通过 storyboard 搭建列表页 | 值等于计算方式 | 处理计算后的值 | Swift 版 UI 展示 |
 
 ## Advantage 框架的优势
 * 1.文件少，代码简洁，封装程度高
