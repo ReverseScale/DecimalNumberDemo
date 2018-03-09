@@ -1,4 +1,13 @@
 # DecimalNumberDemo
+
+![](https://img.shields.io/badge/platform-iOS-red.svg) 
+![](https://img.shields.io/badge/language-Objective--C-orange.svg) 
+![](https://img.shields.io/badge/download-30.9MB-brightgreen.svg) 
+![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
+[![Build Status](https://travis-ci.org/ReverseScale/RSPayAWA.svg?branch=master)](https://travis-ci.org/ReverseScale/RSPayAWA)
+
+[EN](#Requirements) | [中文](#中文说明)
+
 Since Everbright financial management ideas are deeply rooted in people's minds, various financial products are also mushroomed in general. Since the amount involved, the precision of float can not meet the needs of financial computing. However, the use of NSDecimal in OC is too complicated to use. Therefore, Based on the people were encapsulated and demonstrated through a Demo.
 (Swift version included reference examples, with UI Oh 😯 ~)
 
