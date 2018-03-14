@@ -11,10 +11,10 @@
 Since Everbright financial management ideas are deeply rooted in people's minds, various financial products are also mushroomed in general. Since the amount involved, the precision of float can not meet the needs of financial computing. However, the use of NSDecimal in OC is too complicated to use. Therefore, Based on the people were encapsulated and demonstrated through a Demo.
 (Swift version included reference examples, with UI Oh 😯 ~)
 
-| Name | 1. List Page | 2. Display Page | 3. Display Page | 4.UI Page |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Screenshots | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/61254329.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/99367276.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/36867899.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-11-21/58376795.jpg) |
-| Description | Building a List Page via storyboard | Values Equal to Calculations | Handling Calculated Values | Swift UI Showcase |
+| 1. List Page | 2. Display Page | 3. Display Page | 4.UI Page |
+| ------------- | ------------- | ------------- | ------------- |
+| ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/61254329.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/99367276.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/36867899.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-11-21/58376795.jpg) |
+| Building a List Page via storyboard | Values Equal to Calculations | Handling Calculated Values | Swift UI Showcase |
 
 ## 🚀 Advantage 
 * 1. Less file, code concise, high degree of packaging
@@ -135,10 +135,10 @@ SOFTWARE.
 
 ## 🎨 测试 UI 什么样子？
 
-| 名称 |1.列表页 |2.展示页 |3.展示页 |4.UI页 |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/61254329.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/99367276.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/36867899.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-11-21/58376795.jpg) |
-| 描述 | 通过 storyboard 搭建列表页 | 值等于计算方式 | 处理计算后的值 | Swift 版 UI 展示 |
+|1.列表页 |2.展示页 |3.展示页 |4.UI页 |
+| ------------- | ------------- | ------------- | ------------- |
+| ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/61254329.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/99367276.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-12/36867899.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-11-21/58376795.jpg) |
+| 通过 storyboard 搭建列表页 | 值等于计算方式 | 处理计算后的值 | Swift 版 UI 展示 |
 
 ## 🚀 框架的优势
 * 1.文件少，代码简洁，封装程度高
