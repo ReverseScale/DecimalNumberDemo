@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13527"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -137,14 +137,14 @@
                             </view>
                         </subviews>
                         <constraints>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="s1w-Hq-0jz" secondAttribute="bottom" id="6NO-3G-Qil"/>
+                            <constraint firstItem="s1w-Hq-0jz" firstAttribute="bottom" secondItem="8bC-Xf-vdC" secondAttribute="bottom" id="3Tp-Bl-Tar"/>
+                            <constraint firstItem="s1w-Hq-0jz" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="3Tq-PX-MbW"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="4HH-WY-on9" secondAttribute="bottom" constant="38" id="CFJ-Y1-K2h"/>
                             <constraint firstItem="4HH-WY-on9" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="25" id="Cud-Ch-fr6"/>
-                            <constraint firstItem="s1w-Hq-0jz" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="-20" id="Den-37-o9z"/>
+                            <constraint firstItem="s1w-Hq-0jz" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="EOQ-8h-EBg"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="4HH-WY-on9" secondAttribute="trailing" constant="25" id="T0m-2O-zTd"/>
-                            <constraint firstItem="s1w-Hq-0jz" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="VTr-vz-Ivn"/>
+                            <constraint firstItem="s1w-Hq-0jz" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="bnl-pA-MYe"/>
                             <constraint firstItem="4HH-WY-on9" firstAttribute="top" secondItem="NRh-lD-e88" secondAttribute="bottom" constant="28" id="eVe-Us-Asa"/>
-                            <constraint firstAttribute="trailing" secondItem="s1w-Hq-0jz" secondAttribute="trailing" id="lDJ-hB-6Oz"/>
                             <constraint firstItem="J50-WU-Ymc" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="mRT-SJ-QX0"/>
                             <constraint firstItem="J50-WU-Ymc" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" constant="50" id="qoQ-5O-SqA"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="J50-WU-Ymc" secondAttribute="bottom" constant="80" id="wfe-Ee-87i"/>
