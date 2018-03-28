@@ -106,11 +106,11 @@
 		34104F291FC3D3E500E6DD15 /* DecimalDemoSwift */ = {
 			isa = PBXGroup;
 			children = (
+				34104F581FC3D44B00E6DD15 /* DecimalDemoSwift-Bridging-Header.h */,
 				34104F2A1FC3D3E500E6DD15 /* AppDelegate.swift */,
 				34104F2C1FC3D3E500E6DD15 /* ViewController.swift */,
 				34104F601FC3D49200E6DD15 /* DecimalNumber */,
 				34104F591FC3D48E00E6DD15 /* RSDropdownControls */,
-				34104F581FC3D44B00E6DD15 /* DecimalDemoSwift-Bridging-Header.h */,
 				34104F2E1FC3D3E500E6DD15 /* Main.storyboard */,
 				34104F311FC3D3E500E6DD15 /* Assets.xcassets */,
 				34104F331FC3D3E500E6DD15 /* LaunchScreen.storyboard */,

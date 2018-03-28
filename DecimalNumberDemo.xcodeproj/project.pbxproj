@@ -112,14 +112,14 @@
 		34CD13511F14C57A00F136BC /* DecimalNumberDemo */ = {
 			isa = PBXGroup;
 			children = (
-				34CD138C1F14C77500F136BC /* RSDropdownControls */,
-				34CD13851F14C6E700F136BC /* DecimalNumber */,
 				34CD13551F14C57A00F136BC /* AppDelegate.h */,
 				34CD13561F14C57A00F136BC /* AppDelegate.m */,
 				34CD13581F14C57A00F136BC /* ViewController.h */,
 				34CD13591F14C57A00F136BC /* ViewController.m */,
 				34CD13891F14C74300F136BC /* CalculatorUIViewController.h */,
 				34CD138A1F14C74300F136BC /* CalculatorUIViewController.m */,
+				34CD138C1F14C77500F136BC /* RSDropdownControls */,
+				34CD13851F14C6E700F136BC /* DecimalNumber */,
 				34CD135B1F14C57A00F136BC /* Main.storyboard */,
 				34CD135E1F14C57A00F136BC /* Assets.xcassets */,
 				34CD13601F14C57A00F136BC /* LaunchScreen.storyboard */,
