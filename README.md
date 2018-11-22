@@ -13,7 +13,7 @@ Since Everbright financial management ideas are deeply rooted in people's minds,
 
 | 1. List Page | 2. Display Page | 3. Display Page | 4.UI Page |
 | ------------- | ------------- | ------------- | ------------- |
-| ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/11530502.jpg) | ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/11750909.jpg) | ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/4505947.jpg) | ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/96797331.jpg) |
+| ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/85062598.jpg) | ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/20224916.jpg) | ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/66547467.jpg) | ![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-22/26123470.jpg) |
 | Building a List Page via storyboard | Values Equal to Calculations | Handling Calculated Values | Swift UI Showcase |
 
 ## 🚀 Advantage 
